@@ -33,6 +33,8 @@ export default class App extends Component {
           target="_blank" >
           Download me
         </CSVLink>
+
+        <button class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Edit</button>
       </div>
     );
   }
